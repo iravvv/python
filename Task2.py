@@ -1,0 +1,8 @@
+print("hello")
+print("10")
+print("10, 12")
+print(10, 12, sep='+')
+print("10, 12")
+print("Iryna", end='\n')
+print("Hunko", end='\n')
+print("Alexadrovna", end='\n')
